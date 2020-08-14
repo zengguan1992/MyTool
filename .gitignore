@@ -1,0 +1,3 @@
+Inf.config ##忽略 Debug/文件下Inf.config文件
+/obj #ingore obj file
+/packages #ingore packages file
